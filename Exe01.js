@@ -7,7 +7,7 @@ if (codigo === 1) {
 } else if (codigo === 2 || codigo === 3) {
     console.log('Alimento perecível');
 } else if (codigo === 4) {
-    console.log('Higiene Peçoal');
+    console.log('Higiene Pessoal');
 } else {
     console.log('Código invalido');
 }
