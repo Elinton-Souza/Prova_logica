@@ -9,5 +9,5 @@ if (codigo === 1) {
 } else if (codigo === 4) {
     console.log('Higiene Pessoal');
 } else {
-    console.log('Código inválido');
+    console.log('Código invalido');
 }
